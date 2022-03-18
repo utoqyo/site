@@ -9,3 +9,5 @@
 University of Tokyo LGBTQ+ staff association is an organization for faculty and administrative staff at the University of Tokyo who identify as belonging to a sexual minority. We aim to provide mutual support for members and offer a space for information exchange and focus efforts to lobby for improvements to the university environment for sexual minorities. We actively collaborate with the student organisation UT-Topos, alumni organization Porta Rubra for LGBT @ UT, and TOPIA, which works together with allies. Please feel free to get in touch and join us for one of our regular social gatherings.
 
 [Contact us](mailto:euan.mckay@mail.u-tokyo.ac.jp).
+
+![Logo](logo.png "UToqyo logo")
