@@ -10,4 +10,4 @@ University of Tokyo LGBTQ+ staff association is an organization for faculty and 
 
 [Contact us](mailto:euan.mckay@mail.u-tokyo.ac.jp).
 
-![Logo](logo.png "UToqyo logo")
+![Logo](logo_s.png "UToqyo logo")
